@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">616097072274-hsesd0ll3rje8pp36prk07uvli2s6pc2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://finalurinew-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">616097072274</string>
+    <string name="google_api_key" translatable="false">AIzaSyA3c9S2GyyknRYB1LDr9H6braNsIOnwQWI</string>
+    <string name="google_app_id" translatable="false">1:616097072274:android:5475b5d1fe96bb3382d24b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA3c9S2GyyknRYB1LDr9H6braNsIOnwQWI</string>
+    <string name="google_storage_bucket" translatable="false">finalurinew.appspot.com</string>
+    <string name="project_id" translatable="false">finalurinew</string>
+</resources>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_item.xml",
+        "source": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\src\\main\\res\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_change.xml",
+        "source": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\src\\main\\res\\layout\\fragment_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_medic.xml",
+        "source": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\src\\main\\res\\layout\\activity_main_medic.xml"
+    },
+    {
+        "merged": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_reset.xml",
+        "source": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\src\\main\\res\\layout\\fragment_reset.xml"
+    },
+    {
+        "merged": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_contact_us.xml",
+        "source": "C:\\Users\\99556\\Desktop\\ktst\\MedAPP\\app\\src\\main\\res\\layout\\fragment_contact_us.xml"
+    }
+]
